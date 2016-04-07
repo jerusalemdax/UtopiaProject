@@ -1,0 +1,8 @@
+[submodule "Blog"]
+	path = Blog
+	url = https://github.com/jerusalemdax/Blog.git
+	branch = master
+[submodule "Game/Client/Unity4/Source"]
+	path = Game/Client/Unity4/Source
+	url = https://github.com/jerusalemdax/Unity4Client.git
+	branch = master
