@@ -14,3 +14,7 @@
 	path = Game/Client/Unity5/Source
 	url = https://github.com/jerusalemdax/Unity5Client.git
 	branch = master
+[submodule "Game/Server/Build"]
+	path = Game/Server/Build
+	url = https://github.com/jerusalemdax/Build.git
+	branch = master
