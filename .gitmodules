@@ -18,3 +18,6 @@
 	path = Game/Server/Build
 	url = https://github.com/jerusalemdax/Build.git
 	branch = master
+[submodule "Game/Server/WebManager"]
+	path = Game/Server/WebManager
+	url = https://github.com/jerusalemdax/WebManager.git
